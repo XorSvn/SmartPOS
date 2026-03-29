@@ -93,28 +93,28 @@ Instalar dependencias
 Backend
 ----
 ```
-$ cd backend
+cd backend
 ```
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ```
-$ python manage.py migrate
+python manage.py migrate
 ```
 ```
-$ python manage.py runserver
+python manage.py runserver
 ```
 
 Frontend
 ----
 ```
-$ cd frontend
+cd frontend
 ```
 ```
-$ npm install
+npm install
 ```
 ```
-$ npm run dev
+npm run dev
 ```
 📈 Características técnicas destacadas
 -------------
