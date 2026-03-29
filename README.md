@@ -61,28 +61,32 @@ Stock = Compras - Ventas
 Clonar el repositorio
 ----
 ```
-$ git clone https://github.com/ElHackerDaniel/SmartPOS.git
+git clone https://github.com/ElHackerDaniel/SmartPOS.git
 ```
 
 ```
-$ cd SmartPOS
+cd SmartPOS
 ```
 
 Crear entorno virtual (opcional)
 ----
 ```
-$ python -m venv venv
+python -m venv venv
 ```
 
 Activarlo:
 
 Windows
 
-`$ venv\Scripts\activate`
+`venv\Scripts\activate`
+
+CMD
+
+`venv\Scripts\activate.bat`
 
 Linux / Mac
 
-`$ source venv/bin/activate`
+`source venv/bin/activate`
 
 Instalar dependencias
 -------------
