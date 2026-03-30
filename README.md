@@ -8,7 +8,7 @@ Sistema profesional de gestión de ventas, compras e inventario desarrollado con
 
 - **Frontend:** React + TailwindCSS  
 - **Backend:** Django REST Framework  
-- **Base de datos:** PostgreSQL  
+- **Base de datos:** SQLite  
 - **Gráficos:** Recharts  
 - **Animaciones:** Framer Motion  
 
