@@ -1,6 +1,6 @@
 # 🧾 SmartPOS
 
-Sistema profesional de gestión de ventas, compras e inventario desarrollado con arquitectura moderna **Full Stack**.
+SmartPOS es un **sistema profesional de gestión de ventas, compras e inventario** desarrollado con arquitectura moderna **Full Stack**. Utiliza **Django REST Framework** en el backend y **React** en el frontend, permitiendo gestionar productos, compras, ventas y generar reportes con gráficos interactivos.
 
 ---
 
