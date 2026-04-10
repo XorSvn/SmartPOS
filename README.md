@@ -146,7 +146,7 @@ Puedes probar el flujo completo:
 ----
 Proyecto desarrollado como parte del proceso de aprendizaje en desarrollo web Full Stack, enfocado en la construcción de un sistema profesional de ventas, inventario y análisis de datos utilizando Python, Django REST Framework, React y PostgreSQL.
 
-Att: ElHackerDaniel
+Att: XorSvn
 
 🪬 Credenciales
 ----
